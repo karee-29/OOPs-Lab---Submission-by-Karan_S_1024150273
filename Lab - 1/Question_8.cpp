@@ -1,13 +1,10 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int days;
-
     cout << "Enter number of days late: ";
     cin >> days;
-
     if (days <= 5)
     {
         cout << "Fine is 50 paise";
@@ -24,6 +21,5 @@ int main()
     {
         cout << "Membership cancelled";
     }
-
     return 0;
 }
