@@ -3,7 +3,6 @@ using namespace std;
 class Matrix {
 private:
     int a[2][2];  
-
 public:
     void getData() {
         cout << "Enter elements of 2x2 matrix:\n";
@@ -38,7 +37,6 @@ int main() {
     m1.getData();
     cout << "Matrix 2:\n";
     m2.getData();
-
     m3 = m1 * m2;  
     cout << "\nResult of multiplication:\n";
     m3.display();
