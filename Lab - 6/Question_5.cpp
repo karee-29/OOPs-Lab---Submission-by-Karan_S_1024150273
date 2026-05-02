@@ -34,6 +34,5 @@ int main() {
     cout << "Copied Complex: ";
     c3.display();
     sum(c1, c2);
-
     return 0;
 }
