@@ -50,13 +50,6 @@ Example:
 g++ filename.cpp
 ./a.out
 ```
-
-## 📌 Note
-
-All programs are written for academic purposes and may be improved further.
-
----
-
 ### 👤 Author
 
 Karan Kumar S
